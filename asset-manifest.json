@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.ac0d83be.css",
-    "main.js": "/static/js/main.9e32ffbe.js",
+    "main.js": "/static/js/main.7ae642d3.js",
     "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
+    "static/media/clips.png": "/static/media/clips.9c82ef61fc6a10b44638.png",
     "static/media/construction.png": "/static/media/construction.272bcd689f3dcb047b3b.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/rms.png": "/static/media/rms.fc6361478b8654751262.png",
+    "static/media/img_greyscale.png": "/static/media/img_greyscale.588ee198b81316dd72b1.png",
     "static/media/file.jpg": "/static/media/file.0d80536ccb98c44de53f.jpg",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/Ujjwal_Bhattarai_Resume.pdf": "/static/media/Ujjwal_Bhattarai_Resume.b4a8e1421bf638bc2146.pdf",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.ac0d83be.css.map": "/static/css/main.ac0d83be.css.map",
-    "main.9e32ffbe.js.map": "/static/js/main.9e32ffbe.js.map",
+    "main.7ae642d3.js.map": "/static/js/main.7ae642d3.js.map",
     "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac0d83be.css",
-    "static/js/main.9e32ffbe.js"
+    "static/js/main.7ae642d3.js"
   ]
 }
